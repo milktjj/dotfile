@@ -1,0 +1,71 @@
+Content|Content|around
+us|us-west-2|tabnine
+nftId|nftIdList|pyright
+failOverReadOnl|failOverReadOnly|tabnine
+autoReconn|autoReconnect|tabnine
+useUn|useUnicode|tabnine
+spee|speed":|tabnine
+chann|channel":|tabnine
+MVN|MVN_HOME|tabnine
+ntc_08|ntc_08_11_new.csv|file
+old|old_url|pyright
+k|kol|tabnine
+__|__main___|around
+__name|__name__|tabnine
+jump|jump_id_rsa|file
+out|outFile|tabnine
+outF|outFile|tabnine
+Mona|Monaco|tabnine
+Ping|PingFang|around
+E|Emacs.app|tabnine
+App|Applications|file
+links|linksA_2|around
+wa|warp|around
+f|false|tabnine
+tru|true|tabnine
+tr|true|json
+|echo|json
+"dia|"diagnostic.messageTarget": $1,|json
+true|truecolor|tabnine
+v|values|pyright
+len|len|pyright
+le|__len__|pyright
+vl|values|pyright
+tr|true|tabnine
+ne|newpaper|tabnine
+s|symbols_outline()|lua-1
+opt|opt = true|tabnine
+newpa|newpaper|tabnine
+newpa|newpaper|lua-1
+|newpaper()|lua-1
+conf|config|tabnine
+s|setup|tabnine
+newp|newpaper|tabnine
+requ|require("")|tabnine
+o|options|tabnine
+opt|options = {}|tabnine
+func|function ()|lua-1
+options|options = {}|tabnine
+newpaper|newpaper()|tabnine
+funct|function config.|tabnine
+dia|diagnostics|tabnine
+tr|true|lua-1
+ig|ignore|lua-1
+enab|enable = true,|tabnine
+print|print(...)|lua-1
+fora|format|lua-1
+fo|format|lua-1
+r|read(...)|lua-1
+w|write|lua-1
+w|write()|lua-1
+requ|require|tabnine
+trub|trouble()|lua-1
+tru|trouble|lua-1
+Fir|FiraCode|around
+Fir|Fira|around
+|print!|go
+lef|left|go
+cha|charMap|go
+map|map[invalid type]invalid type|go
+ma|main|go
+ma|material|around
